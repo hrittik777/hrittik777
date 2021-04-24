@@ -13,14 +13,14 @@ Also check out our developer community [Arminius FOSS](https://github.com/armini
 ## Projects
 #### Web Development:
 - [portfolio-website](https://devwatch.org/) :blue_book:: My portfolio website *(to be revamped soon)*.
-- [tyy-server](https://github.com/hrittik777/tyy-server) :green_book:: A `TypeScript-GraphQL` server boilerplate with `TypeORM, PostgreSQL and GraphQL Yoga`.
-- [swave](https://github.com/hrittik777/swave) :blue_book:: A Blockchain-based Cryptocurrency in `JavaScript` built using `NodeJS, Express, Redis and React`.
+- [tyy-server](https://github.com/hrittik777/tyy-server) :green_book:: A fully featured `TypeScript` and `GraphQL` server with `TypeORM`, `PostgreSQL` and `GraphQL-Yoga`.
+- [swave](https://github.com/hrittik777/swave) :blue_book:: A Blockchain-based Cryptocurrency in `JavaScript` built using `NodeJS`, `Express`, `Redis` and `React`.
 - [arminius-foss/news-stream-server](https://github.com/arminius-foss/news-stream-server) :orange_book:: Server for the Arminius FOSS News application.
 - [arminius-foss/news-stream-client](https://github.com/arminius-foss/news-stream-client) :orange_book:: Client for the Arminius FOSS News application.
-- [laconiql-server](https://github.com/hrittik777/laconiql-server) :green_book:: A ready-to-use minimalistic `NodeJS-GraphQL` server powered by `Apollo-server and Prisma` with `PostgreSQL`.
-- [laconiql-client](https://github.com/hrittik777/laconiql-client) :green_book:: A ready-to-use minimalistic `React-Apollo` client.
-- [wetakk](https://github.com/hrittik777/wetakk) :closed_book:: A social networking website built using `NodeJS, Express, MongoDB, React and Redux`.
-- [talk-at-ya](https://github.com/hrittik777/talk-at-ya) :closed_book:: A Chat Application built using `NodeJS, Express and Socket.io`.
+- [laconiql-server](https://github.com/hrittik777/laconiql-server) :green_book:: A ready-to-use minimalistic `NodeJS` and `GraphQL` server powered by `Apollo-Server` and `Prisma` with `PostgreSQL`.
+- [laconiql-client](https://github.com/hrittik777/laconiql-client) :green_book:: A ready-to-use minimalistic `React` and `Apollo` client.
+- [wetakk](https://github.com/hrittik777/wetakk) :closed_book:: A social networking website built using `NodeJS`, `Express`, `MongoDB`, `React` and `Redux`.
+- [talk-at-ya](https://github.com/hrittik777/talk-at-ya) :closed_book:: A Chat Application built using `NodeJS`, `Express` and `Socket.io`.
 
 #### Hacking/Security:
 - [asguardian](https://github.com/hrittik777/asguardian) :green_book:: A cli-tool for easy and comprehensive pen-testing *(coming soon)*.
