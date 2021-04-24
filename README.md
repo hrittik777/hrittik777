@@ -12,7 +12,7 @@ Also check out our developer community [Arminius FOSS](https://github.com/armini
 
 ## Projects
 #### Web Development:
-- [portfolio-website](https://devwatch.org/) :blue_book: - My portfolio website (to be revamped soon).
+- [portfolio-website](https://devwatch.org/) :blue_book: - My portfolio website *(to be revamped soon)*.
 - [tyy-server](https://github.com/hrittik777/tyy-server) :green_book: - A TypeScript GraphQL server boilerplate with TypeORM, PostgreSQL and GraphQL Yoga.
 - [swave](https://github.com/hrittik777/swave) :blue_book: - A Blockchain-based Cryptocurrency in JavaScript built using NodeJS, Express, Redis and React.
 - [arminius-foss/news-stream-server](https://github.com/arminius-foss/news-stream-server) :orange_book: - Server for the Arminius FOSS News application.
@@ -21,7 +21,7 @@ Also check out our developer community [Arminius FOSS](https://github.com/armini
 - [talk-at-ya](https://github.com/hrittik777/talk-at-ya) :closed_book: - A Chat Application built using NodeJS, Express and Socket.io.
 
 #### Hacking/Security:
-- [asguardian](https://github.com/hrittik777/asguardian) :green_book: - A cli-tool for easy and comprehensive pen-testing (coming soon).
+- [asguardian](https://github.com/hrittik777/asguardian) :green_book: - A cli-tool for easy and comprehensive pen-testing *(coming soon)*.
 
 #### Data Science/ML:
 - [quant-finance-algorithmic-trading-python](https://github.com/hrittik777/quant-finance-algorithmic-trading-python) :orange_book: - Some programs to demonstrate quantitative finance and algorithmic trading using Python.
