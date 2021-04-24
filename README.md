@@ -13,8 +13,8 @@ Also check out our developer community [Arminius FOSS](https://github.com/armini
 ## Projects
 #### Web Development:
 - [portfolio-website](https://devwatch.org/) :blue_book: - My portfolio website (to be revamped soon).
-- [tyy-server](https://github.com/hrittik777/tyy-server) :green_book: - A TypeScript GraphQL server boilerplate.
-- [swave](https://github.com/hrittik777/swave) :blue_book: - A Blockchain-based Cryptocurrency in JavaScript.
+- [tyy-server](https://github.com/hrittik777/tyy-server) :green_book: - A TypeScript GraphQL server boilerplate with TypeORM, PostgreSQL and GraphQL Yoga.
+- [swave](https://github.com/hrittik777/swave) :blue_book: - A Blockchain-based Cryptocurrency in JavaScript built using NodeJS, Express, Redis and React.
 - [arminius-foss/news-stream-server](https://github.com/arminius-foss/news-stream-server) :orange_book: - Server for the Arminius FOSS News application.
 - [arminius-foss/news-stream-client](https://github.com/arminius-foss/news-stream-client) :orange_book: - Client for the Arminius FOSS News application.
 - [wetakk](https://github.com/hrittik777/wetakk) :closed_book: - A social networking website built using NodeJS, Express, MongoDB, React and Redux.
