@@ -17,8 +17,8 @@ Also check out our developer community [Arminius FOSS](https://github.com/armini
 - [swave](https://github.com/hrittik777/swave) :blue_book:: A Blockchain-based Cryptocurrency in `JavaScript` built using `NodeJS, Express, Redis and React`.
 - [arminius-foss/news-stream-server](https://github.com/arminius-foss/news-stream-server) :orange_book:: Server for the Arminius FOSS News application.
 - [arminius-foss/news-stream-client](https://github.com/arminius-foss/news-stream-client) :orange_book:: Client for the Arminius FOSS News application.
-- [laconiql-server](https://github.com/hrittik777/laconiql-server) :green_book:: A ready-to-use minimalistic `NodeJS-GraphQL` server powered by.
-- [laconiql-client](https://github.com/hrittik777/laconiql-client) :green_book:: A ready-to-use minimalistic `React-Apollo` client powered by .
+- [laconiql-server](https://github.com/hrittik777/laconiql-server) :green_book:: A ready-to-use minimalistic `NodeJS-GraphQL` server powered by `Apollo-server and Prisma`.
+- [laconiql-client](https://github.com/hrittik777/laconiql-client) :green_book:: A ready-to-use minimalistic `React-Apollo` client.
 - [wetakk](https://github.com/hrittik777/wetakk) :closed_book:: A social networking website built using `NodeJS, Express, MongoDB, React and Redux`.
 - [talk-at-ya](https://github.com/hrittik777/talk-at-ya) :closed_book:: A Chat Application built using `NodeJS, Express and Socket.io`.
 
