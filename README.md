@@ -32,7 +32,7 @@ Also check out our Developer community [Arminius FOSS](https://github.com/armini
 - [ds-algorithms-javascript](https://github.com/hrittik777/ds-algorithms-javascript) :green_book: - Data Structures and Algorithms in JavaScript.
 
 #### Mobile:
-- Nothing here, check back later :)
+- Nothing here, check back later :monkey_face:
 
 #### Ideas:
 *Some ideas I've been meaning to implement, collaborators welcome!*
