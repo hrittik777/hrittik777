@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my GitHub, the following is a quick guide to help you find your way around. 
+Welcome to my GitHub, the following is a quick guide to help you find your way around.  
 Pull-requests for all projects are welcome.
 
 Also check out our Developer community [Arminius FOSS](https://github.com/arminius-foss) to work with us on some great open-source projects.
